@@ -1,0 +1,91 @@
+{
+    "CLICK-TO-LOGIN-PAGE": {
+        "TITLE": "Welcome to the Ontario Business Number Validation Tool",
+        "CLICK-MESSAGE": "Click the button to login: ",
+        "CLICK-LOGIN-BUTTON": "Click to Login",
+        "CLICK-LOGIN-MESS": "Please note that the CRA and/or MGCS cannot guarantee the accuracy and completeness of all BN information, nor the legitimacy of business information.",
+        "CLICK-HERE-MESS": "For information about Ontario Business Number Validation Tool: ",
+        "CLICK-CLICK-HERE-BUTTON": "Click here"
+    },
+    "BUSINESS-NUMBER-PAGE": {
+        "TITLE": "Business number validator",
+        "DESC": "This is a short description of the tool that shouldn't really be any longer than a sentence.",
+        "BUSINESS-NUMBER": "Business number",
+        "EXAMPLE": "for example, 139432045",
+        "SUB-TITLE": "Please enter 9-digit Business Number:",
+        "SUBMIT-BUTTON": "Submit",
+        "SUBMIT-SEARCH": "Search",
+        "VAL-MESSAGE-REQ": "Business number required.",
+        "VAL-MESSAGE-LONG": "Business number must be 9 characters long.",
+        "VAL-MESSAGE-DIGIT": "Business number must be 9 digit numbers.",
+        "TOOL": "Need help using this tool?",
+        "PDF": "View PDF",
+        "WHAT-NEED": "What you'll need",
+        "YOUR-ONTARIO": "Your Ontario ",
+        "LICENSE": "driver's license",
+        "PLATE-NUMBER": "Your car's license plate number",
+        "ABOUT-ONTARIO": "about Ontario",
+        "ACCESSIBILITY": "accessibility",
+        "NEWS": "news",
+        "PRIVACY": "privacy",
+        "TERMS-USE": "terms of use",
+        "PRINTER": "@ Queen's Printer for Ontario. 2012-18"
+    },
+    "BUSINESS-INFORMATION-PAGE": {
+        "TITLE": "Welcome to the Ontario Business Number Validation Tool",
+        "VALIDATE-NUMBER": "Validate a business number",
+        "SUB-TITLE": "Results from the Canadian Revenue Agency:",
+        
+		"BUSINESS-OVERVIEW": "Business overview",
+        "BUSINESS-NUMBER": "Business number",
+        "LEGAL-NAME": "Legal name",
+        "OPERATING-NAME": "Operating name",
+        "LANGUAGE-CODE": "Language code",
+        "BUSINESS-TYPE": "Business type",
+        "RELATED-BN": "Related business registration number", 
+        
+        "EVENT": "Event",
+        "EVENT-TYPE": "Event type",
+        "EVENT-SUBTYPE": "Event sub type",
+        "EVENT-REASONCODE": "Event reason code",
+        "EVENT-EFFECTIVEDAE": "Event effective date",
+        "EVENT-EXPIRYDATE": "Event expiry date",
+
+        "SUB-TITLE-1": "Incorporation information",
+        "DATE-OF-INCORP": "Date of incorporation",
+        "INCORP-CERT-ID": "Incorporation certificate ID",
+        "JURISD-CODE": "Jurisdiction code",
+        "PROVINCE-CODE": "Province code",
+
+        "SUB-TITLE-2": "Mailing address",
+        "Line-2-1": "Line 1: ",
+        "Line-2-2": "Line 2: ",
+        "CITY-2": "City: ",
+        "COUNTRY-2": "Country: ",
+        "PROVINCE-STATE-2": "Province / State: ",
+        "POSTAL-CODE-ZIP-CODE-2": "Postal Code / Zip Code: ",
+        "RETURN-MAIL-IND-2": "Return mail indicator",
+
+        "SUB-TITLE-3": "Physical adddress",
+        "Line-3-1": "Line 1: ",
+        "Line-3-2": "Line 2: ",
+        "CITY-3": "City: ",
+        "COUNTRY-3": "Country: ",
+        "PROVINCE-STATE-3": "Province / State: ",
+        "POSTAL-CODE-ZIP-CODE-3": "Postal Code / Zip Code: ",
+        "RETURN-MAIL-IND-3": "Return mail indicator",
+
+        "SUB-TITLE-4": "Owner",
+        "FIRST-NAME": "First name",
+        "LAST-NAME": "Last name",
+
+        "SUB-TITLE-5": "Business activity",
+        "BUSINESS-ACT-DESC": "Description",
+        "BUSINESS-ACT-CERT-DESC": "Certified description",
+        
+        "NOT-APPLICABLE": "N/A",
+        
+        "ERROR-MESSAGE": "Error message:"
+    }
+}
+

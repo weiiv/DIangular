@@ -1,0 +1,1 @@
+﻿export * from './term-of-use.component';

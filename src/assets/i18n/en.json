@@ -1,0 +1,47 @@
+{
+    "WELCOME": {
+        "TITLE": "Welcome to Ontario Digital Identity!",
+        "INTRO":"Ontario's Digital Identiy is a new service offered by Ontario Government that offer a convenient way to prove your identity online when accessing government services and selected private sector services. Creating a digital identity to access government services online is entirely your choice. If you prefer, youcan still call or visit a givernment service centre in person.",
+        "HOWTOH":"How to register for Ontario Digital Identity",
+        "HOWTO":"You can use Ontario Digital Identity in a mobile app (can be used with multiple government services) or in a browser-based mode (one-time use). You will need the following government-issued ID documents to register for Ontario Digital Identity:",
+        "ID1":"One government issued Photo ID document:",
+        "ID2":"Second government issued Photo ID document:",
+        "CONNECTME":"Evernym's Connect.Me",
+        "CONNECTOR":"Sovrin Connector App",
+        "DL":"Ontario's Driver License",
+        "PC":"Ontario's Photo Card",
+        "P":"Canada's Passport",
+        "HC":"Ontario's Health Card",
+        "BC":"Ontario's Birth Certificate",
+        "WEBCAM":"If you choose to use the browser-based model to use Ontario's Digital Identity, make sure your computer has a working web camera.",
+        "INSTALLAPP":"To use the Ontario's Digital Identity on your smartphone, choose from the list of approved app providers below to download and install Ontario's Digital Identity enabled app and connect Ontario Government's DI Service:"
+    },
+    "TERMOFUSE": {
+        "TITLE":"Terms of Use",
+        "IAGREE":"I agree that:",
+        "AGG1":"Any information I send through this service is complete and true.",
+        "AGG2":"I am responsible for any date changes that my cellphone probider mat charge when I use this service.",
+        "AGG3":"I am responsible for logging in and out the servie to protect my personal information.",
+        "AGG4":"I will follow the general terms of use for all websites.",
+        "USEINFOH":"Collection and use of personal Information",
+        "USEINFO":"The Ontario government and your local financial assistance office will use the information you provide to administer the program.",
+        "AGREE":"Agree",
+        "DISAGREE":"Disagree",
+        "CLICKTOCONFIRM":"By clicking 'Agree' you confirm you have read and agreed to the terms of use above."
+    },
+    "ACTIVATE": {
+        "WELCOME":"Welcome",
+        "ONLINE":"Online",
+        "PIN":"I have a PIN from ServiceOntario",
+        "P1":"To activate your Digital Identity you will be presented with the following options:",
+        "P2":"For those who would like to sign up for DI complete online.",
+        "P3":"You will need your Driver's License, Health Card OR Ontario Photo Card. You will also need to take picture of yourself and a verification code will be text to smartphone.",
+        "P4":"Additional ID cards (e.g. Hunting and Fishing License) can be added as a final step if you choose",
+        "P5":"For thise who have visited ServiceOntario location within 48 Hours and received a receipt/ print out.",
+        "P6":"The process will be finalized by entering the PIN code given to you and a verification code woll be texted to smartphone."
+    },
+    "SELECTID":{
+        "SELECT":"Select one Photo ID and One government issued ID document from the list below:"
+    }
+}
+

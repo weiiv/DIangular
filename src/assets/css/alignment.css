@@ -1,0 +1,32 @@
+.left {
+  float: left !important; 
+}
+
+.right {
+  float: right !important; 
+}
+
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: table; 
+}
+
+.clearfix:after {
+  clear: both; 
+}
+
+.text-left {
+  text-align: left !important;
+}
+
+.text-right {
+  text-align: right !important;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+@media only screen and (max-width: 767px) {
+  .smallscreencentre { text-align: center; }
+}

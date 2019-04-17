@@ -1,0 +1,76 @@
+header {
+  background: #333333;
+  padding-top: 1rem;
+  min-height: 69px;
+}
+
+a.header-link {
+  margin-top: 0.5rem;
+  color: #ffffff;
+}
+
+.logo-ontario {
+  background: url(../img/logo-ontario.png) no-repeat;
+  background-size: 100% 100%;
+  width: 100%;
+  height: 100%;
+  display: block;
+  margin-top: -.4rem;
+  position:absolute;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .logo-ontario {
+    background: url(../img/logo-ontario@2x.png) no-repeat;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+.logo {
+  background: url(../img/logo-generic.png) no-repeat;
+  background-size: 200px 64px;
+  display: block;
+  width: 200px;
+  height: 64px;
+  margin-top: 0.5rem !important;
+}
+
+@media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
+  .logo {
+    background: url(../img/logo-generic@2x.png) no-repeat;
+  }
+}
+
+@media only screen and (max-width: 40em) {
+  .iconLogoHeader {
+    font-size: 2rem;
+    width: 53px;
+    position: relative;
+    top: .35rem;
+  }
+}
+@media only screen and (min-width: 40.0625em){
+  .iconLogoHeader {
+    font-size: 2.4375rem;
+    width: 153px;
+    position: relative;
+    top: .4rem;
+  }
+}
+
+.iconWrapperLong, .iconWrapperLongNoBg {
+  margin: 0 auto;
+  width: 7rem;
+  height: 2.3rem;
+  font-size: 1.8rem;
+  line-height: 2.4rem;
+  text-align: center;
+  color: #fff;
+  display: inline-block;
+}
+
+.iconLogoHeader {
+  display: inline-block;
+}

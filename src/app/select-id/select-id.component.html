@@ -1,0 +1,17 @@
+
+  <div class="row top-margin-double columns">
+    <h3 >{{'SELECTID.SELECT' | translate}}</h3>
+    <input type="checkbox" name="id1" value="driverslicense" checked>{{'WELCOME.DL' | translate}}<br>
+    <p>OR</p>
+    <input type="checkbox" name="id2" value="passport">{{'WELCOME.P' | translate}}<br>
+    <p>OR</p>
+    <input type="checkbox" name="id3" value="photocard">{{'WELCOME.PC' | translate}}<br>
+    <p>AND</p>
+    <input type="checkbox" name="id4" value="healthcard" checked>{{'WELCOME.HC' | translate}}<br>
+    <p>OR</p>
+    <input type="checkbox" name="id5" value="birthcertificate">{{'WELCOME.BC' | translate}}<br>
+    <div class="smallscreencentre">
+      <a [routerLink]="['/frontdl']" class="button">continue</a>
+    </div>
+  </div>
+

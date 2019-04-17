@@ -1,1 +1,76 @@
 /* You can add global styles to this file, and also import other style files */
+@import "assets/css/normalize.css";
+@import "assets/css/layout.css";
+@import "assets/css/foundation-grid.css";
+@import "assets/css/visibility.css";
+@import "assets/css/alignment.css";
+@import "assets/css/helpers.css";
+@import "assets/css/colours.css";
+@import "assets/css/highlight-blocks.css";
+@import "assets/css/stats.css";
+@import "assets/css/buttons.css";
+@import "assets/css/forms.css";
+@import "assets/css/header.css";
+@import "assets/css/footer.css";
+@import "assets/css/typography.css";
+
+.altList li:nth-child(odd){ background-color:#eee; }
+.altList li:nth-child(even){ background-color:#fff; }
+
+table {
+    border-spacing: 0;
+    border-collapse: collapse;
+    border-bottom: 4px solid #ededed;
+}
+
+table caption {
+	background: #ededed;
+	color: #4d4d4d;
+	font-size: 1rem;
+	font-weight: 700
+}
+
+table thead {
+	background: #666
+}
+
+table thead tr td, table thead tr th {
+	color: #fff;
+	font-size: .875rem;
+	font-weight: 700;
+	padding: .5rem .625rem .625rem
+}
+
+table tfoot {
+	background: #d1ddeb
+}
+
+table tfoot tr td, table tfoot tr th {
+	color: #4d4d4d;
+	font-size: .875rem;
+	font-weight: 700;
+	padding: .5rem .625rem .625rem
+}
+
+table tr td, table tr th {
+	color: #222;
+	font-size: 1rem;
+	padding: .5625rem .625rem;
+	text-align: left
+}
+
+table tr.alt, table tr.even, table tr:nth-of-type(2n) {
+	background: #efefef
+}
+
+table tbody tr td, table tbody tr th, table tfoot tr td, table tfoot tr th,
+	table thead tr th, table tr td {
+	display: table-cell;
+	line-height: 1.5625rem
+}
+
+
+.responsive {
+	max-width: 100%;
+	height: auto;
+  }

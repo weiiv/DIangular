@@ -1,0 +1,78 @@
+.main-content aside, 
+.callout, 
+.alert-box,
+blockquote,
+.error, 
+span.error, 
+small.error {
+  font-family: raleway;
+  background: #ededed;
+  border-color: rgba(0, 0, 0, .1);
+  border-width: 0 0 0 .9375rem;
+  border-style: solid;
+  padding: .9375rem;
+  margin-bottom: 1.25rem;
+  color: #333333;
+  position: relative;
+}
+
+.callout {
+  background: #DFF3F3;
+}
+
+.alert-box {
+  background: #fafad2;
+}
+
+.alert-box.success {
+  background: #E6FAD2;
+}
+
+.alert-box.alert,
+.error, span.error, small.error {
+  background: #FAD2D2;
+}
+
+.alert-box .close {
+  color: #0066cc;
+  font-size: 1.875rem;
+  line-height: .9;
+  padding: 0 6px 6px;
+  margin-top: -0.9375rem;
+  position: absolute;
+  top: 30%;
+  right: 0.25rem;
+}
+
+blockquote {
+  background: whitesmoke;
+  color: #666666;
+  margin: 0 0 1.25rem;
+  padding-top: .46875rem;
+}
+
+blockquote:before {
+  font-size: 2rem;
+  font-family: georgia, serif;
+  content: open-quote;
+  color: #a1a1a1;
+  margin-left: -0.5rem;
+}
+
+blockquote cite {
+  text-align: right;
+  margin-top: 1rem;
+}
+
+blockquote p:first-child {
+  margin-top: -1.5rem;
+}
+
+cite {
+  display: block;
+  font-size: 0.8125rem;
+}
+
+cite:before {
+  content: '\2014 \0020'; 
+}
