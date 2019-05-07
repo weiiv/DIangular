@@ -1,10 +1,14 @@
-<div class="row column smallscreencentre">
-  <p>
+<div class="row column smallscreencentre top-margin-double">
+  <h1>
     Use this phtoto?
-  </p>
+  </h1>
   <p>
     You can re-take it as many times as you'd like.
   </p>
-  <a [routerLink]="['/verified']" class="button">submit</a>
+
+  <img src="assets/images/head.png" class="cardimg top-margin-double" alt="head">
+  <div class="smallscreencentre">
+      <a [routerLink]="['/verified']" class="button no-right-margin top-margin-double">continue</a>
+  </div>
   <a [routerLink]="['/takephoto']">retake</a>
 </div>
