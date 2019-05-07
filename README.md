@@ -8,9 +8,9 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## Prod server
 
-ng build --prod
-docker image build -t IMAGETAG .
-docker run -p 3000:80 --rm IMAGETAG
+ng build --prod  
+docker image build -t IMAGETAG .  
+docker run -p 3000:80 --rm IMAGETAG  
 localhost/3000
 
 ## Code scaffolding
