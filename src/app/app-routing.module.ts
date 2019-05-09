@@ -17,7 +17,8 @@ import { UsePhotoComponent } from './use-photo/use-photo.component';
 
 const routes: Routes = [
   { path: '', component: WelcomeComponent },
-  { path: 'TermofUse', component: TermOfUseComponent },
+
+  { path: 'termofuse', component: TermOfUseComponent },
   { path: 'activate', component: ActivateComponent },
   { path: 'selectID', component: SelectIDComponent },
   { path: 'frontdl', component: FrontDLComponent },
