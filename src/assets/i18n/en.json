@@ -42,6 +42,26 @@
     },
     "SELECTID":{
         "SELECT":"Select one Photo ID and One government issued ID document from the list below:"
+    },
+    "DL":{
+        "BACK":"Take a picture of the back of your driver's license",
+        "FRONT":"Take a picture of the front of your driver's license",
+        "SUCCESS":"Your Driver's license has been successfully verified.",
+        "CONTINUE":"continue"
+    },
+    "HC":{
+        "BACK":"Take a picture of the back of your health card",
+        "FRONT":"Take a picture of the front of your health card",
+        "SUCCESS":"Your health card has been successfully verified."
+    },
+    "PHOTO":{
+        "TAKE":"Take a photo",
+        "USE":"Use this photo?",
+        "CHECK":"We will now check that your face matches the photo on your Driver's license.",
+        "YOUCANRETAKE":"You can re-take it as many times as you'd like.",
+        "RETAKE":"retake",
+        "VERIFIED1":"Verified!",
+        "VERIFIED2":"Your submitted information was successfully verified."
     }
 }
 

@@ -1,14 +1,14 @@
 <div class="row column smallscreencentre top-margin-double">
   <h1>
-    Use this photo?
+    {{'PHOTO.USE' | translate}}
   </h1>
   <p>
-    You can re-take it as many times as you'd like.
+    {{'PHOTO.YOUCANRETAKE' | translate}}
   </p>
 
   <img src="assets/images/head.png" class="cardimg top-margin-double" alt="head">
   <div class="smallscreencentre">
-      <a [routerLink]="['/verified']" class="button no-right-margin top-margin-double">continue</a>
+      <a [routerLink]="['/verified']" class="button no-right-margin top-margin-double">{{'DL.CONTINUE' | translate}}</a>
   </div>
-  <a [routerLink]="['/takephoto']">retake</a>
+  <a [routerLink]="['/takephoto']">{{'PHOTO.RETAKE' | translate}}</a>
 </div>
